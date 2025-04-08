@@ -1,0 +1,4 @@
+C:/Users/FrikStrydom/Projects/cpp/SimpleMC_bind/build/CMakeFiles/MonteCarlo.dir
+C:/Users/FrikStrydom/Projects/cpp/SimpleMC_bind/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/FrikStrydom/Projects/cpp/SimpleMC_bind/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/FrikStrydom/Projects/cpp/SimpleMC_bind/build/pybind11/CMakeFiles/ALL_BUILD.dir
